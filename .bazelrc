@@ -1,0 +1,5 @@
+run --color=yes
+build --color=yes
+
+# Set C++ standard
+build --cxxopt=-std=c++20
